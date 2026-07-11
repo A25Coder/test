@@ -20,7 +20,7 @@ export default function Dashboard() {
                 const response = await fetch('http://localhost:5000/api/dashboard/summary');
 
                 if (!response.ok) {
-                    throw new Error('Failed to retrieve system operations data.');
+                    throw new Error('Failed to retrieve s.');
                 }
 
                 const data = await response.json();

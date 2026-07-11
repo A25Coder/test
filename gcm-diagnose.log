@@ -1,0 +1,207 @@
+﻿Diagnose log at 2026-07-08T07:10:14Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.6.1+786ab03440ddc82e807a97c0e540f5247e44cec6
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\ABIE
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=ABRAHAM
+GIT_TRACE2_PARENT_SID=b0b2ac21-5767-4d52-b1cb-933e3315f7a3
+EFC_8132_2775293581=1
+OMP_NUM_THREADS=5
+OneDrive=C:\Users\ABIE\OneDrive
+GlobalVariableMeritTracSecureDesktop=Close
+PYTHON_BASIC_REPL=1
+SESSIONNAME=Console
+TMP=C:\Users\ABIE\AppData\Local\Temp
+PROCESSOR_REVISION=ba03
+USERDOMAIN_ROAMINGPROFILE=ABRAHAM
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+EFC_8132_3789132940=1
+GIT_ASKPASS=c:\Users\ABIE\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\70789581cae28aa7\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\ABIE\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\ABIE\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+COPILOT_DEBUG_NONCE=dffa8e034c2716065e0c124fc5800835
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 3, GenuineIntel
+EFC_8132_1262719628=1
+VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+ProgramW6432=C:\Program Files
+EFC_8132_2283032206=1
+USERDOMAIN=ABRAHAM
+TERM_PROGRAM=vscode
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ABIE\bin;c:\Users\ABIE\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\ABIE\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Users\ABIE\AppData\Roaming\npm;C:\Program Files\nodejs;C:\Users\ABIE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ABIE\AppData\Local\Programs\Python\Launcher\;C:\Program Files\PostgreSQL\16\bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\MinGW\bin;C:\Users\ABIE\AppData\Local\Microsoft\WindowsApps\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\OpenSSL-Win64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\tools;C:\Program Files\dotnet\;C:\Users\ABIE\Downloads\instantclient-basic-windows.x64-23.9.0.25.07\instantclient_23_9;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\ABIE\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\ABIE\AppData\Local\Programs\Python\Python311\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\ABIE\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2023.2.1\bin;C:\Windows\System32;C:\Users\ABIE\AppData\Local\spicetify;C:\Users\ABIE\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\ABIE\AppData\Local\Programs\Ollama;C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin;C:\Users\ABIE\AppData\Local\Programs\mongosh\;C:\Users\ABIE\AppData\Local\Microsoft\WindowsApps;C:\tools;C:\Users\ABIE\AppData\Roaming\npm;C:\Users\ABIE\AppData\Local\PowerToys\;
+EFC_8132_1592913036=1
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\ABIE\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=1.127.0
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\ABIE\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\70789581cae28aa7\askpass-main.js
+ProgramFiles(x86)=C:\Program Files (x86)
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-8cc922f919-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_18616_AYAFNWUDUNPMQNYR
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files (x86)
+ChocolateyInstall=C:\ProgramData\chocolatey
+PyCharm Community Edition=C:\Program Files\JetBrains\PyCharm Community Edition 2023.2.1\bin;
+VSCODE_GIT_ASKPASS_NODE=C:\Users\ABIE\AppData\Local\Programs\Microsoft VS Code\Code.exe
+EFC_8132_4126798990=1
+SystemRoot=C:\WINDOWS
+PYTHONSTARTUP=c:\Users\ABIE\AppData\Roaming\Code\User\workspaceStorage\45e7c4648d855742028089be838a1308\ms-python.python\pythonrc.py
+HOME=C:\Users\ABIE
+EFC_8132_2946480783=1
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\ABRAHAM
+USERPROFILE=C:\Users\ABIE
+COLORTERM=truecolor
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+APPDATA=C:\Users\ABIE\AppData\Roaming
+HOMEDRIVE=C:
+PSModulePath=C:\Users\ABIE\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\PowerShell\Modules\
+USERNAME=ABIE
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+ChocolateyLastPathUpdate=133364152027670148
+SystemDrive=C:
+windir=C:\WINDOWS
+LANG=en_US.UTF-8
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\ABIE\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\ABIE\AppData\Local\Temp\b0e84e729a5ed5408305c58c'... OK
+Reading from temporary file 'C:\Users\ABIE\AppData\Local\Temp\b0e84e729a5ed5408305c58c'... OK
+Deleting temporary file 'C:\Users\ABIE\AppData\Local\Temp\b0e84e729a5ed5408305c58c'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\ABIE
+UserDataDirectoryPath: C:\Users\ABIE\.gcm
+GetCurrentDirectory(): C:\Users\ABIE\Desktop\Allen-project\test
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:51831/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.2.windows.1'
+Locating current repository...Git repository at 'C:/Users/ABIE/Desktop/Allen-project/test/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/ABIE/.gitconfig	core.editor="C:\Users\ABIE\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+file:C:/Users/ABIE/.gitconfig	core.autocrlf=true
+file:C:/Users/ABIE/.gitconfig	gui.recentrepo=C:/Users/ABIE/React-App-Finance
+file:C:/Users/ABIE/.gitconfig	user.email=allenkoshydaniel@gnail.com
+file:C:/Users/ABIE/.gitconfig	user.name=A25Coder
+file:C:/Users/ABIE/.gitconfig	credential.https://github.com.username=Abie2023
+file:C:/Users/ABIE/.gitconfig	credential.usehttppath=true
+file:C:/Users/ABIE/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/A25Coder/test.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\ABIE\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\ABIE\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
